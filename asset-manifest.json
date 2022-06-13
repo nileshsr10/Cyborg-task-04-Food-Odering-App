@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cyborg-task-04-Food-Odering-App/static/css/main.da4d8bf3.css",
+    "main.js": "/Cyborg-task-04-Food-Odering-App/static/js/main.1816db35.js",
+    "static/js/787.6962f9d7.chunk.js": "/Cyborg-task-04-Food-Odering-App/static/js/787.6962f9d7.chunk.js",
+    "index.html": "/Cyborg-task-04-Food-Odering-App/index.html",
+    "main.da4d8bf3.css.map": "/Cyborg-task-04-Food-Odering-App/static/css/main.da4d8bf3.css.map",
+    "main.1816db35.js.map": "/Cyborg-task-04-Food-Odering-App/static/js/main.1816db35.js.map",
+    "787.6962f9d7.chunk.js.map": "/Cyborg-task-04-Food-Odering-App/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da4d8bf3.css",
+    "static/js/main.1816db35.js"
+  ]
+}
